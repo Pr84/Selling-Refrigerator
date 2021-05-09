@@ -1,0 +1,23 @@
+body {
+    font-size: 15pt;
+    
+}
+#div1{
+  color: red;
+  margin-top:10px;
+}
+#div2{
+  color: black;
+  margin-bottom: 15px;
+}
+footer{
+  background-color: black;
+  color: white;
+}
+#div3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.main{
+  color: white;
+}
